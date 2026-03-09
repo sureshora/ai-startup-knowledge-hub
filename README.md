@@ -8,7 +8,7 @@ This site contains guides about:
 - AI SaaS growth strategies
 - AI marketing for startups
   
-# AI Startup
+## AI Startup
 - [Bohrium AI] (AI-Startup/Bohrium-AI.md)
 - [Bohrium AI Status] (AI-Startup/Bohrium-AI-Status.md)
   
