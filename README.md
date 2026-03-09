@@ -1,14 +1,13 @@
-# ai-startup-knowledge-hub
+# AI Startup Knowledge Hub
+
 Welcome to the AI Startup Knowledge Hub.
 
-This site contains guides about:
+This site contains research and guides about AI startups and platforms.
 
-- AI industry trends
-- AI startup ideas
-- AI SaaS growth strategies
-- AI marketing for startups
-  
-## AI Startup
-- [Bohrium AI] (AI-Startup/Bohrium-AI.md)
-- [Bohrium AI Status] (AI-Startup/Bohrium-AI-Status.md)
-  
+---
+
+## AI Startup Research
+
+- [Bohrium AI Overview](AI-Startup/Bohrium-AI.md)
+- [Bohrium AI Status](AI-Startup/Bohrium-AI-Status.md)
+
